@@ -49,3 +49,13 @@ function binarySearch(array, item) {
   return -1
 }
 ```
+
+## Experience
+* **[Tutor-landing](https://bariydev.github.io/Tutor-landing)** (still in development)
+* **[Guitar shop](https://bariydev.github.io/Landing)** (freeCodeCamp project)
+
+## Education
+* [freeCodeCamp Certification](https://www.freecodecamp.org/certification/bariybarinov/responsive-web-design)
+
+## English
+In the process of studying, my current English level is about A2
