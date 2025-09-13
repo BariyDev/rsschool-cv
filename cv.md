@@ -18,6 +18,10 @@ A beginner frontend developer. I'm currently studying at [RS School](https://rs.
 ### Basic / Familiar with
 * **Git & GitHub**
 * **React**
+* **Vite**
+* **npm**
+* **Node.js**
+* **Express.js**
 * **PostgreSQL**
 * **Sequelize**
 * **Postman**
