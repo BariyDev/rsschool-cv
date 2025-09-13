@@ -25,3 +25,27 @@ A beginner frontend developer. I'm currently studying at [RS School](https://rs.
 * **PostgreSQL**
 * **Sequelize**
 * **Postman**
+
+### Code example
+I recently started studying algorithms. The last one I studied:
+
+**Binary Search**
+```
+function binarySearch(array, item) {
+  let start = 0
+  let end = array.length - 1
+
+  while (start <= end) {
+    const middle = Math.floor((start + end) / 2)
+    
+    if (array[middle] === item) {
+      return middle
+    } else if (item < array[middle]) {
+      end = middle - 1
+    } else {
+      start = middle + 1
+    }
+  }
+  return -1
+}
+```
