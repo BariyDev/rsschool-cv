@@ -1,1 +1,1 @@
-# rsschool-cv
+https://BariyDev.github.io/rsschool-cv/cv
