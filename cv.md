@@ -26,7 +26,7 @@ A beginner frontend developer. I'm currently studying at [RS School](https://rs.
 * **Sequelize**
 * **Postman**
 
-### Code example
+## Code example
 I recently started studying algorithms. The last one I studied:
 
 **Binary Search**
