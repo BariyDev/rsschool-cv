@@ -55,7 +55,7 @@ function binarySearch(array, item) {
 * **[Guitar shop](https://bariydev.github.io/Landing)** (freeCodeCamp project)
 
 ## Education
-* [freeCodeCamp Certification](https://www.freecodecamp.org/certification/bariybarinov/responsive-web-design)
+* **[freeCodeCamp Certification](https://www.freecodecamp.org/certification/bariybarinov/responsive-web-design)**
 
 ## English
 In the process of studying, my current English level is about A2
